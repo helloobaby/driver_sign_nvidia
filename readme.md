@@ -1,4 +1,4 @@
-[!img](./doc/demo.gif)
+[!img](https://github.com/helloobaby/driver_sign_nvidia/blob/master/doc/demo.gif)
 
 
 
